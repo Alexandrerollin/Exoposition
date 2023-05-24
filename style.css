@@ -1,0 +1,19 @@
+/* Elements selectors */
+
+/* Class sélectors */
+
+.div1 {
+    background-color: aqua;
+    width: 200px;
+    height: 100px;
+    position: static;
+}
+
+.div2 {
+    background-color: blanchedalmond;
+    width: 200px;
+    height: 100px;
+    position: static;
+}
+
+/* ID sélectors */
