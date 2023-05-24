@@ -16,4 +16,13 @@
     position: static;
 }
 
+.div3 {
+    background-color: rgb(30, 209, 51);
+    width: 300px;
+    height: 200px;
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+
 /* ID sélectors */
