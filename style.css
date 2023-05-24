@@ -40,4 +40,13 @@
     right: 50px;
 }
 
+.fixed {
+    background-color: rgb(0, 55, 255);
+    width: 300px;
+    height: 200px;
+    position: fixed;
+    bottom: 1px;
+    right: 0px;
+}
+
 /* ID sélectors */
